@@ -2,9 +2,9 @@
 
 Perkenalkan nama saya **Erick Winata**.
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).
+Saya seorang **Peserta** di [Dicoding](https://www.dicoding.com/).
 
-Saya bertanggung jawab pada kualitas materi Web.
+Sedang menempuh pendidikan di Dicoding Indonesia dan salah satu mahasiswa di Universitas Dinamika.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/erick-winata-b59581235/)ku ya.
 
