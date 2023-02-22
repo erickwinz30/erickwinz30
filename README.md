@@ -1,4 +1,12 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Erick Winata**.\
+
+Saya seorang **Web Developer** di [Dicoding](https://www.dicoding.com/).\
+
+Saya bertanggung jawab pada kualitas materi Web
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/erick-winata-b59581235/)ku ya.
 
 <!--
 **erickwinz30/erickwinz30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
