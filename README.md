@@ -2,9 +2,7 @@
 
 Perkenalkan nama saya **Erick Winata**.
 
-Saya seorang **Peserta** di [Dicoding](https://www.dicoding.com/).
-
-Sedang menempuh pendidikan di Dicoding Indonesia dan salah satu mahasiswa di Universitas Dinamika.
+Saya seorang **Mahasiswa** di [Universitas Dinamika](https://dinamika.ac.id/).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/erick-winata-b59581235/)ku ya.
 
