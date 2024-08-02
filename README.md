@@ -4,6 +4,8 @@ Perkenalkan nama saya **Erick Winata**.
 
 Saya seorang **Mahasiswa** di [Universitas Dinamika](https://dinamika.ac.id/) dan alumni **Dicoding Indonesia MSIB Batch 4**.
 
+Saat ini saya sedang fokus dalam melakukan pengembangan website menggunakan framework **Laravel**
+
 Jika kamu tertarik untuk berkenalan dengan saya, silakan cek akun [Linkedin](https://www.linkedin.com/in/erick-winata-b59581235/).
 
 <p align="left">
