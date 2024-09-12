@@ -14,7 +14,8 @@ Jika kamu tertarik untuk berkenalan dengan saya, silakan cek akun [Linkedin](htt
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 
-# 📊 GitHub Stats:<p align="left">
+# 📊 GitHub Stats:
+<p align="left">
 <a href="https://github.com/erickwinz30">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erickwinz30&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
