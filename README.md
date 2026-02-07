@@ -33,11 +33,11 @@ I specialize in building scalable web applications using **PHP (Laravel)** and m
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://https://github-readme-stats-pied-six-34.vercel.app/api?username=erickwinz30&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="erickwinz30" />
+  <img src="https://github-readme-stats-pied-six-34.vercel.app/api?username=erickwinz30&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="erickwinz30" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erickwinz30&theme=dark&hide_border=false" alt="erickwinz30" />
 </p>
 <p align="left">
-  <img src="https://https://github-readme-stats-pied-six-34.vercel.app/api/top-langs/?username=erickwinz30&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="erickwinz30" />
+  <img src="https://github-readme-stats-pied-six-34.vercel.app/api/top-langs/?username=erickwinz30&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="erickwinz30" />
 </p>
 
 ### 🏆 Trophies
