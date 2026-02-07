@@ -1,38 +1,53 @@
-# Hello everyone! 
+# Hi there, I'm Erick Winata! 👋
 
-My name is **Erick Winata**.
+I am a **Fullstack Developer** and an **Information Systems graduate** from [Universitas Dinamika](https://dinamika.ac.id/) (GPA 3.74) based in **Surabaya, Indonesia**.
 
-I am a **Fresh Graduate** from [Universitas Dinamika](https://dinamika.ac.id/) and an alumnus of the **Dicoding Indonesia MSIB Batch 4** program.
+I specialize in building scalable web applications using **PHP (Laravel)** and modern JavaScript ecosystems like **Vue.js** and **React**. My experience ranges from digitizing manual HR processes to refactoring legacy systems into dynamic interfaces.
 
-Currently, I am focusing on website development using the **Laravel** framework and learning the **Vue** framework.
+### 🚀 Career Highlights
 
-If you're interested in getting to know me, feel free to check out my [LinkedIn](https://www.linkedin.com/in/erick-winata-b59581235/) profile.
+- 💼 **IT Programmer Intern at Wings Food (PT. Prakarsa Alam Segar):** Developed a real-time monitoring dashboard using **React.js & Firebase** and migrated document systems.
+- 🛠️ **IT Support Intern at Bfit Indonesia:** Refactored warehouse inventory systems from Laravel Blade to **Vue.js**.
+- 🎓 **Dicoding Indonesia Alumni:** MSIB Batch 4 Graduate specializing in Full-stack Web Development.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erickwinz30) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erick-winata-b59581235) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@erickwinz30) 
+---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+## 💻 Tech Stack
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=erickwinz30&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=erickwinz30&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickwinz30&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Languages** ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🏆 GitHub Trophies
+**Frontend** ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend** ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Database & Cloud** ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erick-winata-b59581235) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erickwinz30) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@erickwinz30)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://https://github-readme-stats-pied-six-34.vercel.app/api?username=erickwinz30&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="erickwinz30" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erickwinz30&theme=dark&hide_border=false" alt="erickwinz30" />
+</p>
+<p align="left">
+  <img src="https://https://github-readme-stats-pied-six-34.vercel.app/api/top-langs/?username=erickwinz30&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="erickwinz30" />
+</p>
+
+### 🏆 Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=erickwinz30&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=erickwinz30&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!--
-**erickwinz30/erickwinz30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Side Project
-- 🌱 I’m currently learning Vue.Js
--->
