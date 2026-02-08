@@ -40,10 +40,6 @@ I specialize in building scalable web applications using **PHP (Laravel)** and m
   <img src="https://github-readme-stats-pied-six-34.vercel.app/api/top-langs/?username=erickwinz30&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="erickwinz30" />
 </p>
 
-### 🏆 Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=erickwinz30&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
