@@ -6,7 +6,7 @@ I specialize in building scalable web applications using **PHP (Laravel)** and m
 
 ### 🚀 Career Highlights
 
-- 💼 **IT Programmer Intern at Wings Food (PT. Prakarsa Alam Segar):** Developed a real-time monitoring dashboard using **React.js & Firebase** and migrated document systems.
+- 💼 **IT Programmer Intern at Wings Food (PT. Prakarsa Alam Segar):** Developed a real-time monitoring dashboard using **React.js & Firebase** and revamped the document collection workflow by developing a direct file upload interface.
 - 🛠️ **IT Support Intern at Bfit Indonesia:** Refactored warehouse inventory systems from Laravel Blade to **Vue.js**.
 - 🎓 **Dicoding Indonesia Alumni:** MSIB Batch 4 Graduate specializing in Full-stack Web Development.
 
