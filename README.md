@@ -1,6 +1,6 @@
 # Hi there, I'm Erick Winata! 👋
 
-I am a **Fullstack Developer** and an **Information Systems graduate** from [Universitas Dinamika](https://dinamika.ac.id/) (GPA 3.74) based in **Surabaya, Indonesia**.
+I am a **Fullstack Developer** and an **Information Systems graduate** from [Universitas Dinamika](https://dinamika.ac.id/) based in **Surabaya, Indonesia**.
 
 I specialize in building scalable web applications using **PHP (Laravel)** and modern JavaScript ecosystems like **Vue.js** and **React**. My experience ranges from digitizing manual HR processes to refactoring legacy systems into dynamic interfaces.
 
